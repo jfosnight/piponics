@@ -1,0 +1,19 @@
+{
+  "name": "hydro-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.11.3",
+    "moment": "^2.18.1",
+    "oled-font-5x7": "^1.0.0",
+    "oled-js": "^4.0.4",
+    "raspi-io": "^8.0.1"
+  }
+}
