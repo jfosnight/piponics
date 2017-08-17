@@ -11,8 +11,8 @@ const board = new five.Board({
 
 let config = {
   pumpDelay: 15 * 60, // seconds
-  lampOnTime: parseStrTime("07:00:00"),
-  lampOffTime: parseStrTime("21:00:00"),
+  lampOnTime: parseStrTime("07:00:00"), // 7 AM
+  lampOffTime: parseStrTime("23:00:00"), // 11 PM
 };
 
 
